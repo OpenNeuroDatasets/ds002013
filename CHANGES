@@ -1,4 +1,4 @@
-1.0.1 2019-08-15
+1.0.1 2019-08-16
   - "dataset_description.json": replaced non-readable characters
   - "task-CircCon_bold.json": added task name
   - "README": replaced "*" by "X"/"Y"/"Z"
