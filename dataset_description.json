@@ -10,6 +10,6 @@
         "Soch J, Allefeld C, Haynes JD (2019): Inverse Transformed Encoding Models - a solution to the problem of correlated trial-by-trial parameter estimates in fMRI decoding; in review at NeuroImage, available from bioRxiv; DOI: 10.1101/610626 ."
     ],
     "BIDSVersion": "1.2.0",
-    "DatasetDOI": "10.18112/openneuro.ds002013.v1.0.1",
+    "DatasetDOI": "10.18112/openneuro.ds002013.v1.0.2",
     "License": "CC0"
 }
