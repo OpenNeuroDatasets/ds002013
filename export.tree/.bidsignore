@@ -1,0 +1,4 @@
+participants.mat
+*.mat
+*.xls
+*/anat/*roi*.nii

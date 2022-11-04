@@ -1,0 +1,14 @@
+{
+    "Name": "Visual Receptive Field Mapping Experiment",
+    "Authors": [
+        "Jakob Heinzle (data acquisition)",
+        "Kai G�rgen (data curation)",
+        "Joram Soch (BIDS conversion)"
+    ],
+    "ReferencesAndLinks": [
+        "Heinzle J, Kahnt T, Haynes JD (2011): Topographically specific functional connectivity between visual field maps in the human brain. NeuroImage, vol. 56, pp. 1426-1436; DOI: 10.1016/j.neuroimage.2011.02.077.",
+        "Soch J, Allefeld C, Haynes JD (2019): Inverse Transformed Encoding Models � a solution to the problem of correlated trial-by-trial parameter estimates in fMRI decoding; in review at NeuroImage, available from bioRxiv; DOI: 10.1101/610626 ."
+    ],
+    "BIDSVersion": "1.2.0",
+    "DatasetDOI": "10.18112/openneuro.ds002013.v1.0.0"
+}
