@@ -1,6 +1,6 @@
 {
-  "TaskName": "StimDisc",
-  "TaskDescription": "see Heinzle et al. (2011), Fig. 2 (S+)",
+  "TaskName": "CircRun",
+  "TaskDescription": "main experiment: see Heinzle et al. (2011), Fig. 2; Soch et al. (2020), Fig. 6",
   "RepetitionTime": 1.5,
   "EchoTime": 0.03,
   "FlipAngle": 90,
