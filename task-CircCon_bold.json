@@ -1,6 +1,6 @@
 {
   "TaskName": "CircCon",
-  "TaskDescription": "not completely clear what this is",
+  "TaskDescription": "preparatory session for main experiment",
   "RepetitionTime": 1.5,
   "EchoTime": 0.03,
   "FlipAngle": 90,
